@@ -74,6 +74,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - create react app 
 - configured TailwindCSS
+- header
+- Login from 
+- Sign Up Form
 
 
 
@@ -91,4 +94,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - NetflixGPT
  - Search bar
  - Movie Suggestions
-  
