@@ -13,5 +13,13 @@ export const API_OPTIONS = {
   },
 };
 
+export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500";
 
-export const IMG_CDN_URL= "https://image.tmdb.org/t/p/w500";
+export const BG_URL =
+  "https://analyticsindiamag.com/wp-content/uploads/2019/05/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.jpg";
+
+export const SUPPORTED_LANGUAGES = [
+  { identifier: "en", name: "English" },
+  { identifier: "hindi", name: "Hindi" },
+  { identifier: "spanish", name: "Spanish" },
+];
